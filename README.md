@@ -4,4 +4,4 @@ cd FaceMaskDetector
 
 pip install -r requirements.txt
 
-python facemask.py
+python detect_mask_video.py
